@@ -4,7 +4,7 @@ import { NgModule } from '@angular/core';
 
 
 var LappModule = (function () {
-    function HttpClientInMemoryWebApiModule() {
+    function LappModule() {
     }
   
     LappModule.forRoot = function () {

@@ -1,6 +1,6 @@
 {
   "name": "angular-lapp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Lapp Angular Package ",
   "main": "index.js",
   "scripts": {
