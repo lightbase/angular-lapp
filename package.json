@@ -1,0 +1,19 @@
+{
+  "name": "angular-lapp",
+  "version": "1.0.0",
+  "description": "Lapp Angular Package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightbase/angular-lapp.git"
+  },
+  "author": "Alessandro Landim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightbase/angular-lapp/issues"
+  },
+  "homepage": "https://github.com/lightbase/angular-lapp#readme"
+}
